@@ -1,4 +1,4 @@
-# React Coding Challenge by Tonik
+# Tonik's React Coding Challenge
 ### Preview
 [https://tonik-delta.vercel.app](https://tonik-delta.vercel.app/)
 
